@@ -1,4 +1,4 @@
-# D8 dexer and R8 shrinker
+# D8 dexer and R8 shrinker 
 
 The R8 repo contains two tools:
 
